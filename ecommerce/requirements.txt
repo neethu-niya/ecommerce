@@ -1,0 +1,2 @@
+Django==3.2.6  # Use the specific version you need
+djangorestframework==3.12.4  # Use the specific version you need
